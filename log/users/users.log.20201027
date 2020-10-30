@@ -1,0 +1,37 @@
+2020-10-26 14:30:16,020 users_views.py[line:53] DEBUG RegistHandle: request argument incorrect
+2020-10-26 14:30:23,568 users_views.py[line:53] DEBUG RegistHandle: request argument incorrect
+2020-10-26 14:30:27,377 users_views.py[line:57] DEBUG RegistHandle: regist successfully
+2020-10-26 18:30:53,434 users_views.py[line:75] DEBUG RegistHandle: insert db, user: fdg
+2020-10-27 09:15:29,650 users_views.py[line:63] DEBUG RegistHandle: request argument incorrect
+2020-10-27 09:18:13,767 users_views.py[line:63] DEBUG RegistHandle: request argument incorrect
+2020-10-27 09:18:16,024 users_views.py[line:63] DEBUG RegistHandle: request argument incorrect
+2020-10-27 09:18:17,328 users_views.py[line:63] DEBUG RegistHandle: request argument incorrect
+2020-10-27 09:18:29,966 users_views.py[line:75] DEBUG RegistHandle: insert db, user: 18866668888
+2020-10-27 09:20:36,694 users_views.py[line:77] DEBUG RegistHandle: insert db, user: 18866668888
+2020-10-27 09:20:36,730 users_views.py[line:84] DEBUG RegistHandle: regist successfully
+2020-10-27 09:20:54,787 users_views.py[line:77] DEBUG RegistHandle: insert db, user: fdg
+2020-10-27 09:20:54,802 users_views.py[line:84] DEBUG RegistHandle: regist successfully
+2020-10-27 09:21:18,327 users_views.py[line:77] DEBUG RegistHandle: insert db, user: yufang
+2020-10-27 09:21:18,339 users_views.py[line:84] DEBUG RegistHandle: regist successfully
+2020-10-27 10:55:23,862 users_views.py[line:65] DEBUG RegistHandle: request argument incorrect
+2020-10-27 10:57:14,573 users_views.py[line:65] DEBUG RegistHandle: request argument incorrect
+2020-10-27 10:57:16,934 users_views.py[line:65] DEBUG RegistHandle: request argument incorrect
+2020-10-27 10:57:18,915 users_views.py[line:65] DEBUG RegistHandle: request argument incorrect
+2020-10-27 11:01:18,067 users_views.py[line:65] DEBUG RegistHandle: request argument incorrect
+2020-10-27 11:07:52,099 users_views.py[line:65] DEBUG RegistHandle: request argument incorrect
+2020-10-27 11:22:07,840 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-27 11:23:42,479 users_views.py[line:76] DEBUG RegistHandle: insert db, user: zhangsan
+2020-10-27 11:23:42,530 users_views.py[line:83] DEBUG RegistHandle: regist successfully
+2020-10-27 11:23:51,210 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-27 11:24:03,921 users_views.py[line:76] DEBUG RegistHandle: insert db, user: xuadaquan
+2020-10-27 11:24:03,929 users_views.py[line:83] DEBUG RegistHandle: regist successfully
+2020-10-27 11:24:07,539 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-27 11:27:36,175 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-27 13:34:54,224 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-27 13:43:01,784 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-27 13:43:35,243 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-27 13:44:29,067 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-27 13:44:32,613 users_views.py[line:111] DEBUG LoginHandle: request argument incorrect
+2020-10-27 13:44:40,539 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-27 14:15:22,986 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-27 14:15:28,602 users_views.py[line:127] DEBUG LoginHandle: login successfully

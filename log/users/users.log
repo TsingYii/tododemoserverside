@@ -1,0 +1,57 @@
+2020-10-28 21:37:52,285 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-28 21:38:01,854 users_views.py[line:76] DEBUG RegistHandle: insert db, user: chenjuan
+2020-10-28 21:38:01,985 users_views.py[line:83] DEBUG RegistHandle: regist successfully
+2020-10-28 21:38:05,630 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-28 21:38:12,046 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-28 21:38:21,864 users_views.py[line:76] DEBUG RegistHandle: insert db, user: yuyue
+2020-10-28 21:38:21,909 users_views.py[line:83] DEBUG RegistHandle: regist successfully
+2020-10-28 21:38:29,731 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-28 23:00:31,073 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-28 23:00:37,209 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-28 23:00:44,884 users_views.py[line:139] DEBUG LogoutHandle: logout successfully
+2020-10-28 23:00:49,495 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-29 09:17:03,471 users_views.py[line:76] DEBUG RegistHandle: insert db, user: 10086
+2020-10-29 09:17:03,513 users_views.py[line:83] DEBUG RegistHandle: regist successfully
+2020-10-29 09:17:07,500 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-29 13:02:02,516 users_views.py[line:76] DEBUG RegistHandle: insert db, user: yufang
+2020-10-29 13:02:02,535 users_views.py[line:83] DEBUG RegistHandle: regist successfully
+2020-10-29 13:02:05,717 users_views.py[line:127] DEBUG LoginHandle: login successfully
+2020-10-29 13:48:05,823 users_views.py[line:80] DEBUG RegistHandle: insert db, user: yufang
+2020-10-29 13:53:38,781 users_views.py[line:80] DEBUG RegistHandle: insert db, user: yufang
+2020-10-29 13:58:06,972 users_views.py[line:80] DEBUG RegistHandle: insert db, user: yufang
+2020-10-29 13:58:07,016 users_views.py[line:87] DEBUG RegistHandle: regist successfully
+2020-10-29 14:15:06,105 users_views.py[line:141] DEBUG LoginHandle: login successfully
+2020-10-29 14:26:35,138 users_views.py[line:156] DEBUG LogoutHandle: logout successfully
+2020-10-29 14:29:06,843 users_views.py[line:80] DEBUG RegistHandle: insert db, user: yufang
+2020-10-29 14:29:06,897 users_views.py[line:87] DEBUG RegistHandle: regist successfully
+2020-10-29 14:29:13,608 users_views.py[line:143] INFO save token MTYwMzk1MzI1My41OTUyMTYzOmVmYzUyOWUyMmJjYmYwYTlkNjQ0NDMwMTU1Y2UzNGYzY2U3NjUyZTQ=
+2020-10-29 14:29:13,609 users_views.py[line:144] DEBUG LoginHandle: login successfully
+2020-10-29 14:30:14,776 users_views.py[line:156] DEBUG LogoutHandle: logout successfully
+2020-10-29 14:30:22,180 users_views.py[line:143] INFO save token MTYwMzk1MzMyMS44MjYwMDU1OmFmM2NlNDVjNDc5YmMyYzI5MmE0Mjg4NzM1YzlhOWViZWFiNjg2Mzk=
+2020-10-29 14:30:22,428 users_views.py[line:144] DEBUG LoginHandle: login successfully
+2020-10-29 14:31:43,988 users_views.py[line:156] DEBUG LogoutHandle: logout successfully
+2020-10-29 14:32:11,598 users_views.py[line:143] INFO save token MTYwMzk1MzQzMS41ODk1NzI0OjM0NDcxZWE5OTJiZTVkZDIwODJjYzVkNTQ1ZTFkMWJlZWVlN2Y2ZTU=
+2020-10-29 14:32:11,600 users_views.py[line:144] DEBUG LoginHandle: login successfully
+2020-10-29 14:34:31,240 users_views.py[line:159] DEBUG LogoutHandle: logout successfully
+2020-10-29 14:38:09,844 users_views.py[line:145] INFO save token MTYwMzk1Mzc4OS44Mzg2NjE0OmIyMDgxMTExOWM4ZjdlNTgxZGY1ZDY0NjhhZTQ4N2Q5ZWEwODg3ZTY=
+2020-10-29 14:38:09,851 users_views.py[line:146] DEBUG LoginHandle: login successfully
+2020-10-29 14:42:01,607 users_views.py[line:146] INFO save token MTYwMzk1NDAyMS41NDQ4MTQ2OjAzOGU0N2NiYWZhODliZjA0ZDRmYmI0NGI2ZjRjNzI1MjFhMGEzNDE=
+2020-10-29 14:42:01,613 users_views.py[line:147] DEBUG LoginHandle: login successfully
+2020-10-30 09:22:05,622 users_views.py[line:168] DEBUG ProtocolHandle: get html
+2020-10-30 09:27:41,819 users_views.py[line:168] DEBUG ProtocolHandle: get html
+2020-10-30 09:28:29,688 users_views.py[line:168] DEBUG ProtocolHandle: get html
+2020-10-30 09:28:52,758 users_views.py[line:160] DEBUG LogoutHandle: logout successfully
+2020-10-30 09:29:02,775 users_views.py[line:80] DEBUG RegistHandle: insert db, user: wangjianren
+2020-10-30 09:29:02,816 users_views.py[line:87] DEBUG RegistHandle: regist successfully
+2020-10-30 09:29:06,007 users_views.py[line:146] INFO save token MTYwNDAyMTY0NS45OTc3NjE3Ojc3YmQwYjQwN2M4ODFmYTkyMmJjNTUwN2MxNzkyMjNiNTNkOGMzZmY=
+2020-10-30 09:29:06,007 users_views.py[line:147] DEBUG LoginHandle: login successfully
+2020-10-30 09:49:54,035 users_views.py[line:160] DEBUG LogoutHandle: logout successfully
+2020-10-30 09:50:45,640 users_views.py[line:80] DEBUG RegistHandle: insert db, user: wangyang
+2020-10-30 09:50:45,660 users_views.py[line:87] DEBUG RegistHandle: regist successfully
+2020-10-30 09:50:49,562 users_views.py[line:146] INFO save token MTYwNDAyMjk0OS41NDg2NTY6NzAzZDk0MmVmNDk3YTk2N2E3MTA1YTA1YzJmMDMyZTQ4Nzg1NDUzMA==
+2020-10-30 09:50:49,563 users_views.py[line:147] DEBUG LoginHandle: login successfully
+2020-10-30 09:51:16,492 users_views.py[line:168] DEBUG ProtocolHandle: get html
+2020-10-30 09:51:20,863 users_views.py[line:160] DEBUG LogoutHandle: logout successfully
+2020-10-30 09:51:26,729 users_views.py[line:146] INFO save token MTYwNDAyMjk4Ni43Mjc0NDkyOjIxZDUxMDJiNzBkMGFmNjlmMDEyZDkxMGNiMjUzM2MxYzc0M2MyYzg=
+2020-10-30 09:51:26,729 users_views.py[line:147] DEBUG LoginHandle: login successfully
+2020-10-30 12:46:16,894 users_views.py[line:168] DEBUG ProtocolHandle: get html

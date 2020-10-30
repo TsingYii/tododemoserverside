@@ -1,0 +1,16 @@
+2020-10-27 16:43:40,925 todos_views.py[line:71] DEBUG TodosHandle: regist successfully
+2020-10-27 16:46:02,376 todos_views.py[line:71] DEBUG TodosHandle: regist successfully
+2020-10-27 16:46:02,376 todos_views.py[line:72] DEBUG SELECT todos.id AS todos_id, todos.phone AS todos_phone, todos.todo AS todos_todo, todos.`createTime` AS `todos_createTime` 
+FROM todos 
+WHERE todos.phone = %s
+2020-10-27 16:46:40,771 todos_views.py[line:71] DEBUG TodosHandle: regist successfully
+2020-10-27 16:46:40,772 todos_views.py[line:72] DEBUG 22222
+2020-10-27 16:46:40,772 todos_views.py[line:73] DEBUG SELECT todos.id AS todos_id, todos.phone AS todos_phone, todos.todo AS todos_todo, todos.`createTime` AS `todos_createTime` 
+FROM todos 
+WHERE todos.phone = %s
+2020-10-27 17:20:41,582 todos_views.py[line:107] DEBUG NewTodoHandle: insert db, todo: rdgffhdgf
+2020-10-27 17:26:42,454 todos_views.py[line:107] DEBUG NewTodoHandle: insert db, todo: rdgffhdgf
+2020-10-27 17:26:42,489 todos_views.py[line:114] DEBUG NewTodoHandle: add successfully
+2020-10-27 17:26:46,327 todos_views.py[line:71] DEBUG TodosHandle: regist successfully
+2020-10-27 17:26:46,327 todos_views.py[line:72] DEBUG 22222
+2020-10-27 17:26:46,327 todos_views.py[line:73] DEBUG [<models.Todos object at 0x7f625afdc208>]
